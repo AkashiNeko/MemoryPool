@@ -1,3 +1,10 @@
+# Directory
+.vscode/
+.idea/
+build/
+test/
+test.cpp
+
 # Prerequisites
 *.d
 
