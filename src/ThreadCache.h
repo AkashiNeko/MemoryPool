@@ -6,8 +6,6 @@
 #include <cstdint>
 #include "FreeList.h"
 
-
-
 namespace hcmp {
 
 class ThreadCache {
